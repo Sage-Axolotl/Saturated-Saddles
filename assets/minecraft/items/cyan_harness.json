@@ -1,0 +1,21 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "minecraft:model",
+				"model": "minecraft:item/cyan_harness"
+			},
+			{
+				"type": "minecraft:model",
+				"model": "minecraft:item/harness_overlay",
+				"tints": [
+					{
+						"type": "minecraft:dye",
+						"default": -6265536
+					}
+				]
+			}
+		]
+	}
+}
