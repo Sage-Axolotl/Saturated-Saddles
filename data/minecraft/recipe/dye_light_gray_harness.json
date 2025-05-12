@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_transmute",
+  "category": "equipment",
+  "group": "harness_dye",
+  "input": [
+    "minecraft:white_harness",
+    "minecraft:gray_harness",
+    "minecraft:black_harness",
+    "minecraft:brown_harness",
+    "minecraft:red_harness",
+    "minecraft:orange_harness",
+    "minecraft:yellow_harness",
+    "minecraft:lime_harness",
+    "minecraft:green_harness",
+    "minecraft:cyan_harness",
+    "minecraft:light_blue_harness",
+    "minecraft:blue_harness",
+    "minecraft:purple_harness",
+    "minecraft:magenta_harness",
+    "minecraft:pink_harness"
+  ],
+  "material": "minecraft:light_gray_wool",
+  "result": {
+    "count": 1,
+    "id": "minecraft:light_gray_harness"
+  }
+}
