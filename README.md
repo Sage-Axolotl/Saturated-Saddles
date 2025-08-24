@@ -1,3 +1,2 @@
 # Saturated-Saddles
-Allows you to dye saddles and harnesses.
-https://modrinth.com/datapack/saturated-saddles
+New repository: https://github.com/Sage-Axolotl/Sages-Packs
